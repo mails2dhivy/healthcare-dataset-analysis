@@ -34,12 +34,11 @@ This project covers a series of healthcare data analysis tasks using **Microsoft
 
 * Applied basic predictive analytics to historical healthcare data.
 * Explored a healthcare prediction problem such as disease prediction, readmission prediction, or drug demand forecasting.
-* Built and evaluated a basic predictive model using Excel or Python.
+* Built and evaluated a basic predictive model using Excel.
 
 ## Tools Used
 
 * Microsoft Excel
-* Python
 * GitHub
 
 ## Key Skills
