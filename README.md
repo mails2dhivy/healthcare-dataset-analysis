@@ -1,45 +1,49 @@
-# Healthcare Dataset Analysis
+**Healthcare Data Analysis**
 
-## Project Overview
 
-This project analyzes a healthcare dataset containing patient information such as age, gender, disease, medication, and dosage.
+Project Overview
 
-## Objectives
 
-* Explore the healthcare dataset
-* Identify different types of columns
-* Clean missing and duplicate records
-* Perform basic patient analysis
-* Identify common diseases
-* Calculate average patient age
-* Analyze gender and medication distribution
+This project covers a series of healthcare data analysis tasks using Microsoft Excel, focusing on data cleaning, visualization, pharmacy analysis, adverse drug reactions, and predictive analytics.
 
-## Data Cleaning
 
-The dataset was cleaned by:
 
-* Checking and removing duplicate records
-* Identifying missing values
-* Replacing unavailable values with N/A
-* Standardizing disease names
-* Correcting medication spelling
-* Standardizing dosage formatting
+Task 1 – Healthcare Data Cleaning & Understanding
 
-## Analysis Results
+Explored healthcare patient data including age, gender, disease, medication, and dosage.
+Cleaned missing and duplicate records.
+Standardized disease names, medication names, and dosage formats.
+Performed basic analysis such as patient count, common diseases, and average age.
 
-* Total patients: 29
-* Average age: 48.25 years
-* Most common disease: High Cholesterol — 8 patients
-* Female patients: 15
-* Male patients: 13
-* N/A gender: 1
-* Most common medication: Metformin — 8 patients
 
-## Tools Used
+Task 2 – Healthcare Data Visualization
 
-* Microsoft Excel
-* GitHub
+Created charts and graphs to visualize healthcare data.
+Analyzed disease distribution, age distribution, gender ratio, and medication usage.
 
-## Conclusion
 
-The dataset was successfully cleaned and analyzed using Microsoft Excel. The analysis identified patient demographics, disease frequency, medication usage, and the average age of the patients.
+Task 3 – Pharmacy Sales & Drug Analysis
+
+Analyzed pharmacy sales and medicine usage trends.
+Identified top-selling medicines and monthly sales patterns.
+Compared branded and generic medicines and analyzed revenue trends.
+
+
+Task 4 – Adverse Drug Reaction Data Analysis
+
+Analyzed patient symptoms, medication usage, and reaction timelines.
+Explored relationships between medications and adverse drug reactions.
+Identified potential high-risk medicines and possible causes of reactions.
+
+
+Task 5 – Healthcare Predictive Analytics
+
+Applied basic predictive analytics to historical healthcare data.
+Explored a healthcare prediction problem such as disease prediction, readmission prediction, or drug demand forecasting.
+
+Tools Used
+
+Microsoft Excel
+GitHub
+
+Healthcare Data Analysis | Data Cleaning | Data Visualization | Excel | PivotTables | Healthcare Analytics | Predictive Analytics
